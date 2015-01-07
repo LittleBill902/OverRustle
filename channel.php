@@ -145,6 +145,10 @@ require_once 'blacklist.php';
             echo '<iframe width="100%" height="100%" marginheight="0" marginwidth="0" frameborder="0" src="https://www.picarto.tv/live/playerpopout.php?popit=' . $stream . '&off=1&token=undefined" scrolling="no"></iframe>';
             break;
 
+          case "chaturbate":
+            echo '<iframe width="100%" height="100%" marginheight="0" marginwidth="0" frameborder="0" src="http://chaturbate.com/affiliates/in/SHBY/xlKAe/?track=embed&room=' . $stream . '&bgcolor=white"></iframe>';
+            break;
+
           case "strims":
             include('strims_content.php');
 

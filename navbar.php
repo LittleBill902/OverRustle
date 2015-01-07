@@ -12,6 +12,7 @@ $SERVICE_OPTIONS = array(
     "dailymotion" => "Dailymotion",
     "azubu" => "Azubu",
     "picarto" => "Picarto",
+    "chaturbate" => "Chaturbate",
     "advanced" => "Advanced"
 );
 
